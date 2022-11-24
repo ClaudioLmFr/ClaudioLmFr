@@ -3,7 +3,7 @@
 ### Sobre
 
 -  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi, I’m @ClaudioLmFr
-- :gift_heart: Interesses: HTML, CSS, JavaScript, NodeJs, VueJs, Git and GitHub.
+- :gift_heart: Interesses: JavaScript, HTML, CSS, NodeJs, VueJs, Git and GitHub.
 
 ## Skills :book:
 
