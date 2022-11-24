@@ -2,8 +2,8 @@
 
 ### Sobre
 
--  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi, I’m @ClaudioLmFr
-- :gift_heart: I am studying: JavaScript, HTML, CSS, NodeJs, VueJs, Git and GitHub.
+-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá, sou @ClaudioLmFr
+- :gift_heart: Estou estudando: JavaScript, HTML, CSS, NodeJs, VueJs, Git and GitHub.
 
 ## Skills :book:
 
