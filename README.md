@@ -1,9 +1,9 @@
-## Olá! </h2>
+## Hi! </h2>
 
-### Sobre
+### About me
 
 -  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá, sou @ClaudioLmFr
-- :gift_heart: Estou estudando: JavaScript, HTML, CSS, NodeJs, VueJs, Git e GitHub.
+- :gift_heart: I'm studying: HTML, CSS, JavaScript, NodeJs, VueJs, Git e GitHub.
 
 ## Skills :book:
 
@@ -25,7 +25,7 @@
     
  </p> 
  
- ## Contato
+ ## Contact
 
 <p align="center">
     <a href="https://github.com/ClaudioLmFr">
